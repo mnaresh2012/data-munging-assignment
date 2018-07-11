@@ -1,6 +1,6 @@
 # data-munging-assignment
 
-#Data-munging-assignment  [![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)]()
+#Data-munging-assignment  [![GitHub version](http://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 
 ###DevDependencies - 
 ```
