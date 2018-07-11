@@ -1,8 +1,8 @@
-# data-munging-assignment
+# Data-munging-assignment
 
-#Data-munging-assignment  [![GitHub version](http://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
+## Data-munging-assignment  [![GitHub version](http://img.shields.io/badge/version-1.0.0-brightgreen.svg)]()
 
-###DevDependencies - 
+### DevDependencies - 
 ```
 "eslint": "^4.19.1",
 "eslint-config-airbnb-base": "^13.0.0",
