@@ -1,0 +1,74 @@
+{
+  "2001": {
+    "arrested": 6611,
+    "escaped": 22528
+  },
+  "2002": {
+    "arrested": 6734,
+    "escaped": 22485
+  },
+  "2003": {
+    "arrested": 6342,
+    "escaped": 20851
+  },
+  "2004": {
+    "arrested": 6350,
+    "escaped": 19944
+  },
+  "2005": {
+    "arrested": 6020,
+    "escaped": 18683
+  },
+  "2006": {
+    "arrested": 5752,
+    "escaped": 17988
+  },
+  "2007": {
+    "arrested": 6004,
+    "escaped": 18231
+  },
+  "2008": {
+    "arrested": 4754,
+    "escaped": 18545
+  },
+  "2009": {
+    "arrested": 5184,
+    "escaped": 15923
+  },
+  "2010": {
+    "arrested": 4605,
+    "escaped": 15322
+  },
+  "2011": {
+    "arrested": 4780,
+    "escaped": 14201
+  },
+  "2012": {
+    "arrested": 4498,
+    "escaped": 14096
+  },
+  "2013": {
+    "arrested": 4148,
+    "escaped": 12492
+  },
+  "2014": {
+    "arrested": 4198,
+    "escaped": 11563
+  },
+  "2015": {
+    "arrested": 3828,
+    "escaped": 12239
+  },
+  "2016": {
+    "arrested": 3302,
+    "escaped": 14507
+  },
+  "2017": {
+    "arrested": 3298,
+    "escaped": 15077
+  },
+  "2018": {
+    "arrested": 1283,
+    "escaped": 6709
+  }
+}
