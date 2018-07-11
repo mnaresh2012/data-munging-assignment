@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>D3 Charts</title>
+    <style>
+
+        .line {
+          fill: none;
+          stroke: steelblue;
+          stroke-width: 2px;
+        }
+
+        .line + .line {
+          fill: none;
+          stroke: rgb(180, 7, 65);
+          stroke-width: 2px;
+        }
+        </style>
+  </head>
+  <body>
+    <h2>Stack Chart</h2>
+    <h4>Theft data from 2001 - 2018, THEFT OVER $500 and THEFT $500 AND UNDER</h4>
+    <div id="dash-chart"></div>
+    <h2>Line chart</h2>
+    <h4> Assault cases over 2001 - 2018, aggregated on whether the crime resulted in an arrest or not</h4>
+    <div id="line-chart"></div>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <script src="./js/chart.js"></script>
+  </body>
+</html>
