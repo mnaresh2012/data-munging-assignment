@@ -1,0 +1,74 @@
+{
+  "2001": {
+    "theftOver500": 32222,
+    "theftUnder500": 60352
+  },
+  "2002": {
+    "theftOver500": 27367,
+    "theftUnder500": 46378
+  },
+  "2003": {
+    "theftOver500": 20394,
+    "theftUnder500": 36387
+  },
+  "2004": {
+    "theftOver500": 19020,
+    "theftUnder500": 35270
+  },
+  "2005": {
+    "theftOver500": 18648,
+    "theftUnder500": 27378
+  },
+  "2006": {
+    "theftOver500": 20507,
+    "theftUnder500": 26707
+  },
+  "2007": {
+    "theftOver500": 21852,
+    "theftUnder500": 24757
+  },
+  "2008": {
+    "theftOver500": 23825,
+    "theftUnder500": 24877
+  },
+  "2009": {
+    "theftOver500": 21135,
+    "theftUnder500": 23732
+  },
+  "2010": {
+    "theftOver500": 21434,
+    "theftUnder500": 24074
+  },
+  "2011": {
+    "theftOver500": 15285,
+    "theftUnder500": 28335
+  },
+  "2012": {
+    "theftOver500": 15599,
+    "theftUnder500": 28774
+  },
+  "2013": {
+    "theftOver500": 15262,
+    "theftUnder500": 27121
+  },
+  "2014": {
+    "theftOver500": 14539,
+    "theftUnder500": 28192
+  },
+  "2015": {
+    "theftOver500": 12438,
+    "theftUnder500": 24231
+  },
+  "2016": {
+    "theftOver500": 14989,
+    "theftUnder500": 23961
+  },
+  "2017": {
+    "theftOver500": 15133,
+    "theftUnder500": 24225
+  },
+  "2018": {
+    "theftOver500": 5667,
+    "theftUnder500": 9525
+  }
+}
